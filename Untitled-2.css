@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgb(182, 194, 91);
+}
+
+#p1
+{
+    font-size:  23px;
+}
+
+#vegtables{
+  padding-left: 100px; 
+    
+}
+#whole_container{
+    background: scroll;
+}
