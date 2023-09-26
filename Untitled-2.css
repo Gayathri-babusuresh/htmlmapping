@@ -2,20 +2,16 @@ body{
     text-align: center;
     background-color: rgb(182, 194, 91);
 }
-
 #p1
 {
     font-size:  23px;
 }
-
 #vegtablesimg{
-  
+  justify-content: centre;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-    padding: -20px;
-    
+  width: 50%;   
 }
 #whole_container{
     background: scroll;
